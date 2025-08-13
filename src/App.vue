@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>我是app</h1>
-    <h2>vue</h2>
+    <h2>vue122</h2>
   </div>
 </template>
 
